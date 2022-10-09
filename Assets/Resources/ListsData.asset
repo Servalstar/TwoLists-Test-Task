@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5ec8c78b0a46a749956b27caed641c4, type: 3}
+  m_Name: ListsData
+  m_EditorClassIdentifier: 
+  Lists:
+  - Uid: 0dbc0ef9-1991-4659-97ac-543cc4ca4398
+    ListName: "\u041F\u0435\u0440\u0432\u044B\u0439 \u0441\u043F\u0438\u0441\u043E\u043A"
+    Panels:
+    - Uid: 29a06707-d5d3-4030-b846-3bd53213a87f
+      Name: "\u041F\u0430\u043D\u0435\u043B\u044C B"
+      Number: 0
+    - Uid: 31772778-2507-423f-b56f-ff1c91806ea6
+      Name: "\u041F\u0430\u043D\u0435\u043B\u044C A"
+      Number: 1
+    - Uid: e194d2d0-bbba-4d8b-b257-98533b0cf9cb
+      Name: "\u041F\u0430\u043D\u0435\u043B\u044C C"
+      Number: 2
+    IsSortable: 1
+  - Uid: 5da8e00b-116f-4385-b593-55ba1d641849
+    ListName: "\u0412\u0442\u043E\u0440\u043E\u0439 \u0441\u043F\u0438\u0441\u043E\u043A"
+    Panels:
+    - Uid: 3ea76b4f-3ea7-4fa3-b30e-d998279abd9e
+      Name: "\u041F\u0430\u043D\u0435\u043B\u044C E"
+      Number: 3
+    - Uid: a386d8db-67c7-4b68-881c-560646ca0c65
+      Name: "\u041F\u0430\u043D\u0435\u043B\u044C D"
+      Number: 4
+    - Uid: c6b9900e-7288-482f-a69b-906348c551ec
+      Name: "\u041F\u0430\u043D\u0435\u043B\u044C G"
+      Number: 5
+    - Uid: d08c7e65-8551-4804-9d8f-f282970da689
+      Name: "\u041F\u0430\u043D\u0435\u043B\u044C F"
+      Number: 6
+    IsSortable: 0
